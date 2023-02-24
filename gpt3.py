@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 """
 A simple python script to ask gpt-3 for a response. 
 It defaults to asking for bash commands
